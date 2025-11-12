@@ -2,14 +2,16 @@
 Welcome to the official website for Café Siraysham — a cozy destination for coffee lovers in Karlshamn, Sweden.
 
 ## 🌟 Project Overview
-This is a simple HTML5-based informational website for Café Siraysham. It showcases the café’s atmosphere, menu highlights, opening hours, and contact details. The design emphasizes clarity, warmth, and accessibility.
+
+This is a simple website built with semantic HTML5 and styled using CSS. It’s designed to be simple, accessible, and visually appealing, offering visitors a quick overview of what Café Siraysham has to offer.
+
 
 
 ## ✨ Features
 - Semantic HTML5 structure
 - Responsive layout using `viewport` meta tag
 - Navigation bar with anchor links
-- Menu section with images and highlights
+- Menu section with images and pricing table
 - Opening hours and contact information
 - Accessible design with alt text for images
 
@@ -17,8 +19,6 @@ This is a simple HTML5-based informational website for Café Siraysham. It showc
 - HTML5
 - CSS3
 
-## 📷 Image Credits
-All images used are either original or sourced from royalty-free platforms. Ensure proper licensing if deploying publicly.
 
 ## 📬 Contact
 **Café Siraysham**  
