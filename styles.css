@@ -4,6 +4,7 @@ body {
     padding: 0;
     background-color: #f4f4f4;
     color: #333;
+    margin-bottom: 10px;
 }
 header {
     background-color: #ff6347;
@@ -27,6 +28,12 @@ header {
 }
 h2 {
     color: #ff6347;
+}
+img {
+    width: 150px;
+    height: auto;
+    margin: 10px;
+    border-radius: 8px;
 }
 footer {
     background-color: #d86132;
