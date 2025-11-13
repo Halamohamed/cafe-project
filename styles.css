@@ -75,3 +75,15 @@ textarea {
     border: 1px solid #ccc;
     border-radius: 4px;
 }
+.menu {
+    margin: 20px auto;
+    margin-bottom: 30px;
+    width: 60%;
+    border-collapse: collapse;
+    border-bottom: 2px solid #ddd;
+}
+.price {
+    color: #ff6347;
+    font-weight: bold;
+    float: right;
+}
